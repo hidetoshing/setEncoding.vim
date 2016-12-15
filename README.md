@@ -1,3 +1,3 @@
-# vim-easy-encode
+# vim-options-encode
 encodig settings
 
