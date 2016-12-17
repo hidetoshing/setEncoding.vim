@@ -1,3 +1,3 @@
-# vim-options-encode
-encodig settings
+# setEncoding
+setup encodig settings
 

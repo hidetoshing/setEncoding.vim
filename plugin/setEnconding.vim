@@ -1,8 +1,8 @@
 
-if exists("g:loaded_options_encode")
+if exists("g:loaded_setEncoding")
   finish
 endif
-let g:loaded_options_encode = 1
+let g:loaded_setEncoding = 1
 
 let s:save_cpo = &cpo
 set cpo&vim
